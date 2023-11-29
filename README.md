@@ -1,3 +1,4 @@
+Assignment 
 PART 1 (server aka my backend) AND PART 2 (client)
 Using the skills we talked about today, start the process of creating another React 'app' from scratch,
 
