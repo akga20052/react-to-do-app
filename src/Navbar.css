@@ -1,0 +1,21 @@
+.navbar, .navbar li, .navbar a {
+    background-color: #333;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none; /* Optional: Removes the underline from links */
+}
+  
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+  
+.navbar li {
+    cursor: pointer;
+}
+  
+.navbar li:hover, .navbar a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,31 @@
+.todo-app {
+    width: 300px;
+    margin: 20px;
+    background-color: #f0f0f0; /* light gray background */
+    
+}
+
+.todo-app input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #fff; /* white background */
+    color: black /* dark gray text */
+}
+
+.todo-app button {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #008CBA; /* blue background */
+    color: #fff; /* white text */
+}
+
+.todo-app ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.todo-app li {
+    margin-bottom: 10px;
+    color: blueviolet; /* dark gray text */
+}

@@ -1,0 +1,26 @@
+.landing-page {
+    text-align: center;
+    padding: 50px;
+    background-color: #e20c0c;
+}
+
+.landing-page h1 {
+    color: black; /* Change to your preferred color */
+    font-size: 30px; /* Change to your preferred font size */
+  }
+  
+.landing-page p {
+    color: yellow; /* Change to your preferred color */
+    font-size: 20px; /* Change to your preferred font size */
+}
+
+.underline {
+    text-decoration: underline;
+}
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* This centers the text horizontally */
+  }
